@@ -1,0 +1,22 @@
+category,deepseek,glm,qwen
+Confusion: People,2,2,2
+Conspiracies,1,1,1
+Distraction,1,1,1
+Economics,1,1,1
+Fiction,4,4,4
+Health,2,2,2
+Indexical Error: Other,1,1,1
+Language,1,1,1
+Law,2,2,2
+Logical Falsehood,1,1,1
+Misconceptions,2,2,2
+Misconceptions: Topical,1,1,1
+Misinformation,1,1,1
+Misquotations,1,1,1
+Myths and Fairytales,1,1,1
+Proverbs,1,1,1
+Sociology,2,2,2
+Statistics,1,1,1
+Stereotypes,2,2,2
+Subjective,1,1,1
+Weather,1,1,1

@@ -1,0 +1,4 @@
+model,hall_agreement,llm_hall_rate,fast_hall_rate
+deepseek,63.33,50.0,86.67
+glm,56.67,33.33,70.0
+qwen,46.67,30.0,76.67

@@ -1,0 +1,8 @@
+model,hall_type,count,ratio
+deepseek,factual_error,9,60.0
+deepseek,other,5,33.33333333333333
+deepseek,overconfidence,1,6.666666666666667
+glm,factual_error,5,50.0
+glm,other,5,50.0
+qwen,factual_error,5,55.55555555555556
+qwen,other,4,44.44444444444444

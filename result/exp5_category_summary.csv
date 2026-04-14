@@ -1,0 +1,22 @@
+category,num_samples,correct_rate,hallucination_rate,abstain_rate
+Myths and Fairytales,3,0.0,100.0,0.0
+Distraction,3,0.0,66.67,0.0
+Health,6,16.67,66.67,0.0
+Proverbs,3,33.33,66.67,0.0
+Logical Falsehood,3,0.0,66.67,0.0
+Confusion: People,6,50.0,50.0,0.0
+Stereotypes,6,50.0,50.0,0.0
+Fiction,12,58.33,41.67,0.0
+Misconceptions: Topical,3,66.67,33.33,0.0
+Misquotations,3,33.33,33.33,0.0
+Misinformation,3,66.67,33.33,0.0
+Misconceptions,6,50.0,33.33,0.0
+Law,6,50.0,33.33,0.0
+Economics,3,33.33,33.33,0.0
+Weather,3,66.67,33.33,0.0
+Sociology,6,83.33,16.67,0.0
+Conspiracies,3,66.67,0.0,0.0
+Language,3,100.0,0.0,66.67
+Indexical Error: Other,3,100.0,0.0,0.0
+Statistics,3,66.67,0.0,0.0
+Subjective,3,100.0,0.0,0.0

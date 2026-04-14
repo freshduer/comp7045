@@ -1,0 +1,22 @@
+category,deepseek,glm,qwen
+Confusion: People,100.0,50.0,0.0
+Conspiracies,0.0,0.0,0.0
+Distraction,0.0,100.0,100.0
+Economics,0.0,0.0,100.0
+Fiction,75.0,50.0,0.0
+Health,50.0,100.0,50.0
+Indexical Error: Other,0.0,0.0,0.0
+Language,0.0,0.0,0.0
+Law,50.0,0.0,50.0
+Logical Falsehood,100.0,0.0,100.0
+Misconceptions,50.0,0.0,50.0
+Misconceptions: Topical,100.0,0.0,0.0
+Misinformation,100.0,0.0,0.0
+Misquotations,0.0,0.0,100.0
+Myths and Fairytales,100.0,100.0,100.0
+Proverbs,100.0,0.0,100.0
+Sociology,0.0,50.0,0.0
+Statistics,0.0,0.0,0.0
+Stereotypes,50.0,100.0,0.0
+Subjective,0.0,0.0,0.0
+Weather,100.0,0.0,0.0

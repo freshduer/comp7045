@@ -1,0 +1,4 @@
+model,correct_rate,hallucination_rate,abstain_rate,error_rate,avg_answer_len,valid_correct_rate,valid_hallucination_rate
+qwen,66.67,30.0,3.33,0.0,57.83,66.67,30.0
+glm,56.67,33.33,0.0,0.0,49.5,56.67,33.33
+deepseek,33.33,50.0,3.33,0.0,62.93,33.33,50.0
